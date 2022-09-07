@@ -1,2 +1,2 @@
 # umimeceskyplus
-anki sync s umimecesky
+anki sync s umimecesky pomoci anki connect
